@@ -54,10 +54,12 @@ If you are interested in joining VIPS, please feel free to reach out via [email]
 </div>
 </div> -->
 ### 2026
-- **Test-time adaptive vision-language alignment for zero-shot group activity recognition**
-  *Runhao Zeng, Yirui Wang, Wenfu Peng, Xionglin Zhu, Ronghao Zhang, Zhihua Wang*
-  **Pattern Recognition (PR)**, 2026.
+- **Test-time adaptive vision-language alignment for zero-shot group activity recognition**<br>
+  *Runhao Zeng, Yirui Wang, Wenfu Peng, Xionglin Zhu, Ronghao Zhang, Zhihua Wang*<br>
+  **Pattern Recognition (PR)**, 2026.<br>
   📄 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325016966) ｜ 💻 [Code]()
+
+  
 
 ### 2025
 - **Sample-efficient human evaluation of large language models via maximum discrepancy competition**  
