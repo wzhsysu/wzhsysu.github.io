@@ -37,7 +37,8 @@ I recruit 1–2 PhD students and 1–2 Master’s students each year, and I also
 If you are interested in joining VIPS, please feel free to reach out via [email](mailto:zhihua.wang@my.cityu.edu.hk). 
 
 # 🔥 News
-- *2025.12*: &nbsp;I have moved to the School of Cyberscience and Technology at SYSU, where I am excited to begin a new chapter in my academic career and research journey. 
+- *2026.01*: &nbsp;One paper was accepted by Pattern Recognition. Congratulations to Runhao Zeng.
+- *2026.01*: &nbsp;I have moved to the School of Cyberscience and Technology at SYSU, where I am excited to begin a new chapter in my academic career and research journey. 
 
 # 📝 Publications 
 
@@ -52,6 +53,11 @@ If you are interested in joining VIPS, please feel free to reach out via [email]
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+### 2026
+- **Test-time adaptive vision-language alignment for zero-shot group activity recognition**
+  *Runhao Zeng, Yirui Wang, Wenfu Peng, Xionglin Zhu, Ronghao Zhang, Zhihua Wang*
+  **Pattern Recognition (PR)**, 2026.
+  📄 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325016966) ｜ 💻 [Code]()
 
 ### 2025
 - **Sample-efficient human evaluation of large language models via maximum discrepancy competition**  
