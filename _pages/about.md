@@ -38,7 +38,7 @@ If you are interested in joining VIPS, please feel free to reach out via [email]
 
 # 🔥 News
 - *2026.01*: &nbsp;One paper was accepted by Pattern Recognition. Congratulations to Runhao Zeng.
-- *2026.01*: &nbsp;I have moved to the School of Cyberscience and Technology at SYSU, where I am excited to begin a new chapter in my academic career and research journey. 
+<!--- *2026.01*: &nbsp;I have moved to the School of Cyberscience and Technology at SYSU, where I am excited to begin a new chapter in my academic career and research journey. -->
 
 # 📝 Publications 
 
