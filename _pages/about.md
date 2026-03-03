@@ -38,6 +38,8 @@ If you are interested in joining VIPS, please feel free to reach out via [email]
 
 
 # 🔥 News
+- *2026.02*: &nbsp;One paper was accepted by Pattern Recognition about Low-light Image Enhancement. Congratulations to Qinghua.
+- *2026.02*: &nbsp;One paper was accepted by CVPR about Video Quality Assessment. Congratulations to Jian Zou.
 - *2026.02*: &nbsp;One paper was accepted by IEEE Transaction on Image Processing. Congratulations to Chao Huang.
 - *2026.01*: &nbsp;Two papers were accepted by Pattern Recognition. Congratulations to Runhao Zeng.
 <!--- *2026.01*: &nbsp;I have moved to the School of Cyberscience and Technology at SYSU, where I am excited to begin a new chapter in my academic career and research journey. -->
@@ -59,7 +61,7 @@ If you are interested in joining VIPS, please feel free to reach out via [email]
 - **Latent Fingerprint Quality Assessment for Criminal Investigations: A Benchmark Dataset and Method**<br>
   *Chao Huang, Jingxuan Zhang, Ye Zhang, Hao Wu, Peibei Cao, Zhihua Wang, Yang Yu, Xiaochun Cao*<br>
   **IEEE Transaction on Image Processing (TIP)**, 2026.<br>
-  📄 [Paper]() ｜ 💻 [Code](https://github.com/wzhsysu/FIQA)
+  📄 [Paper](https://ieeexplore.ieee.org/abstract/document/11399629) ｜ 💻 [Code](https://github.com/wzhsysu/FIQA)
 
 - **Test-time adaptive vision-language alignment for zero-shot group activity recognition**<br>
   *Runhao Zeng, Yirui Wang, Wenfu Peng, Xionglin Zhu, Ronghao Zhang, Zhihua Wang*<br>
