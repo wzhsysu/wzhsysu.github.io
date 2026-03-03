@@ -29,6 +29,32 @@ layout: compress
 
     {% include scripts.html %}
     <!-- Visitor Map -->
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=OCcwUdbpAZ7A8EVoSlz1NxI6mqH7cUk1mCWE_4uuXJo"></script>
+    <div class="clustr-wrap">
+      <div class="clustr-box">
+        <script
+          type="text/javascript"
+          id="clstr_globe"
+          src="//clustrmaps.com/globe.js?d=OCcwUdbpAZ7A8EVoSlz1NxI6mqH7cUk1mCWE_4uuXJo">
+        </script>
+      </div>
+    </div>
+    
+    <style>
+      .clustr-wrap{
+        display: flex;
+        justify-content: center;
+        margin: 16px 0;
+      }
+        .clustr-box{
+        width: 20%;
+        aspect-ratio: 1 / 1;
+        min-width: 140px; /* 可选：避免移动端太小 */
+      }
+      .clustr-box canvas,
+      .clustr-box iframe{
+        width: 100% !important;
+        height: 100% !important;
+      }
+    </style>
   </body>
 </html>
