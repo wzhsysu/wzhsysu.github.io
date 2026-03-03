@@ -33,8 +33,9 @@ Welcome to the **V**ision, **I**maging, **P**erception & **S**ecurity Laboratory
 
 # 🧑‍🎓 Admissions
 
-I recruit 1–2 PhD students and 1–2 Master’s students each year, and I also welcome motivated bachelor students to join the group in any format.
+⭐⭐⭐ Our team recruit several postdocs to work on image/video quality assessment, image restoration and enhancement, multimedia scurity, 1–2 PhD students and 1–2 Master’s students each year, and I also welcome motivated bachelor students to join the group in any format.
 If you are interested in joining VIPS, please feel free to reach out via [email](mailto:zhihua.wang@my.cityu.edu.hk). 
+
 
 # 🔥 News
 - *2026.02*: &nbsp;One paper was accepted by IEEE Transaction on Image Processing. Congratulations to Chao Huang.
