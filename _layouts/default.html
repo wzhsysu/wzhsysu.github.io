@@ -29,6 +29,37 @@ layout: compress
 
     {% include scripts.html %}
     <!-- Visitor Map -->
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OCcwUdbpAZ7A8EVoSlz1NxI6mqH7cUk1mCWE_4uuXJo&cl=ffffff&w=a"></script>
+    <div class="clustr-wrap">
+    <div class="clustr-box">
+      <script
+        type="text/javascript"
+        id="clstr_globe"
+        src="//clustrmaps.com/globe.js?d=OCcwUdbpAZ7A8EVoSlz1NxI6mqH7cUk1mCWE_4uuXJo">
+      </script>
+    </div>
+  </div>
+  
+  <style>
+    /* 放置位置：居中；想放右侧可把 center 改为 flex-end */
+    .clustr-wrap{
+      display: flex;
+      justify-content: center;
+      margin: 16px 0;
+    }
+  
+    /* 核心：占内容区域 1/5，且正方形 */
+    .clustr-box{
+      width: 20%;
+      aspect-ratio: 1 / 1;
+      min-width: 140px; /* 可选：避免移动端太小 */
+    }
+  
+    /* 强制内部画布/iframe填满容器（ClustrMaps 可能写死尺寸，需要 !important） */
+    .clustr-box canvas,
+    .clustr-box iframe{
+      width: 100% !important;
+      height: 100% !important;
+    }
+  </style>
   </body>
 </html>
